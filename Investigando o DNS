@@ -1,0 +1,11 @@
+C:\Users\aluno>nslookup google.com
+Servidor:  UnKnown
+Address:  172.31.32.236
+
+DNS request timed out.
+    timeout was 2 seconds.
+Nome:    google.com
+Address:  2800:3f0:4001:80e::200e
+
+
+C:\Users\aluno>
