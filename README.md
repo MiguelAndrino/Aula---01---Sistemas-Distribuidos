@@ -19,6 +19,16 @@ Você deverá encontrar informações como:
 ● pacotes recebidos;
 ● pacotes perdidos.
 
+------------------------------
+No mesmo Prompt de Comando, execute:
+nslookup google.com
+Observe o resultado.
+Identifique:
+Nome consultado:
+Endereço(s) IP encontrado(s):
+Agora tente:
+nslookup youtube.com
+
 ----------------------------
 1. Qual endereço IP apareceu?
 2. Quantos pacotes foram enviados?
