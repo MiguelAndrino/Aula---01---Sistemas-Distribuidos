@@ -1,0 +1,21 @@
+C:\Users\aluno>tracert google.com
+
+Rastreando a rota para google.com [172.217.172.46]
+com no máximo 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  10.15.0.2
+  2    <1 ms     1 ms     1 ms  192.168.1.1
+  3     1 ms     2 ms     3 ms  10.1.6.0
+  4     2 ms     2 ms     2 ms  172.21.0.69
+  5     2 ms     1 ms     1 ms  172.19.0.77
+  6     2 ms     2 ms     2 ms  172.19.1.20
+  7     2 ms     1 ms     2 ms  172.19.1.17
+  8     7 ms     7 ms     8 ms  172.29.8.65
+  9     4 ms     4 ms     5 ms  142.250.165.91
+ 10     3 ms     3 ms     3 ms  142.250.209.5
+ 11     7 ms     8 ms     8 ms  192.178.253.73
+ 12     8 ms     7 ms     8 ms  pngrub-an-in-f14.1e100.net [172.217.172.46]
+
+Rastreamento concluído.
+
+C:\Users\aluno>
