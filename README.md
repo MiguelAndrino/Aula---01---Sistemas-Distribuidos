@@ -20,6 +20,13 @@ Você deverá encontrar informações como:
 ● pacotes perdidos.
 
 ------------------------------
+1. Qual endereço IP apareceu?
+2. Quantos pacotes foram enviados?
+3. Quantos foram recebidos?
+4. Houve perda de pacotes?
+5. Qual foi aproximadamente o tempo de resposta?
+
+----------------------------
 No mesmo Prompt de Comando, execute:
 nslookup google.com
 Observe o resultado.
@@ -29,9 +36,16 @@ Endereço(s) IP encontrado(s):
 Agora tente:
 nslookup youtube.com
 
-----------------------------
-1. Qual endereço IP apareceu?
-2. Quantos pacotes foram enviados?
-3. Quantos foram recebidos?
-4. Houve perda de pacotes?
-5. Qual foi aproximadamente o tempo de resposta?
+-------------------------------
+Agora execute:
+tracert google.com
+Aguarde a execução.
+O comando mostrará os saltos (hops)
+realizados no caminho até o destino.
+Observe:
+
+-----------------------------------
+1. Quantos saltos apareceram?
+2. Todos responderam?
+3. Apareceu * * * em algum salto?
+4. O seu computador está conectado diretamente ao servidor do Google?
