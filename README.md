@@ -49,3 +49,15 @@ Observe:
 2. Todos responderam?
 3. Apareceu * * * em algum salto?
 4. O seu computador está conectado diretamente ao servidor do Google?
+
+-----------------------------------
+O QUE APRENDEMOS COM O
+EXPERIMENTO?
+Com apenas três comandos:
+ping
+nslookup
+tracert
+já conseguimos perceber alguns elementos fundamentais de ambientes distribuídos.
+Nossa comunicação depende de:
+Identificação
+Endereços permitem identificar destinos na rede.
