@@ -1,0 +1,18 @@
+Microsoft Windows [versão 10.0.26100.8246]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\aluno>ping google.com
+
+Disparando google.com [172.217.172.46] com 32 bytes de dados:
+Resposta de 172.217.172.46: bytes=32 tempo=7ms TTL=114
+Resposta de 172.217.172.46: bytes=32 tempo=6ms TTL=114
+Resposta de 172.217.172.46: bytes=32 tempo=5ms TTL=114
+Resposta de 172.217.172.46: bytes=32 tempo=6ms TTL=114
+
+Estatísticas do Ping para 172.217.172.46:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um número redondo de vezes em milissegundos:
+    Mínimo = 5ms, Máximo = 7ms, Média = 6ms
+
+C:\Users\aluno>
